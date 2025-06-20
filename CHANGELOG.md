@@ -327,6 +327,9 @@
 - Added retrigger to all keyboard views.
 - A new community feature toggle has been added (`Enable KB View Sidebar Menu Exit (EXIT)`) which will enable you to immediately exit the menu using the top left sidebar pad if you are in the `SETTINGS` or `SOUND` menu for `KEYBOARD VIEW`.
 
+##### Layout
+- Added the classic piano keyboard layout.
+
 ### Sequencer
 
 #### <ins>General</ins>
